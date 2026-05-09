@@ -12,7 +12,12 @@ A simple and clean sign-in screen built with React Native and Expo.
 
 ## Preview
 
-![Sign In Screen](./page_image.jpg)
+<img
+  src="./assets/images/page_image.jpg"
+  alt="Sign In Screen"
+  width="150"
+  height="400"
+/>
 
 ## Getting Started
 
